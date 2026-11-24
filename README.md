@@ -6,6 +6,8 @@
 
 ## 开始漫游
 
+**[在线进入油屋](https://mmmfory.github.io/aburaya-walkthrough/)**
+
 下载 `index.html`，在浏览器中打开并选择「进入红桥」。模型、贴图和全景都已嵌入文件，支持离线使用。
 
 | 操作 | 按键 |
